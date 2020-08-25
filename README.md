@@ -1,3 +1,8 @@
+*UPDATE*
+=======
+The magnet trick worked for some time, but eventually i decided to replace the back camera. I bought a module from AliExpress, and now everything works. I cannot see any difference in photo quality.
+
+
 Google Pixel 2 Camera "fix"
 =======
 
